@@ -58,14 +58,25 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrajwalKatkar&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PrajwalKatkar&show_icons=true&theme=radical&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrajwalKatkar&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKatkar&layout=compact&theme=radical&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PrajwalKatkar&theme=dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=PrajwalKatkar&theme=radical&hide_border=false"
+    height="165"
+  />
 </p>
+
