@@ -63,11 +63,5 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
   <img src="https://nirzak-streak-stats.vercel.app/?user=PrajwalKatkar&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrajwalKatkar&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrajwalKatkar&layout=compact&theme=radical&hide_border=true" />
-</p>
 
