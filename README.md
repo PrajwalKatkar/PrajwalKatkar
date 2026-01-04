@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=PrajwalKatkar&label=Profile%20Visitors&color=0923ec&style=flat-square" />
 </p>
 
-- 🌱 I’m currently learning **Python, Java**
-- 📫 How to reach me: **prajwalkatkar17@gmail.com**
-- ⚡ Fun fact: **My code works… after the 69th try**
+- 🌱 I’m currently learning <b>Python, Java</b>
+- 📫 How to reach me: <b>prajwalkatkar17@gmail.com</b>
+- ⚡ Fun fact: <b>My code works… after the 69th try</b>
 
 ### 🤝 Connect with me
 <p align="left">
@@ -57,6 +57,16 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 
 ---
 
-### 🏆 GitHub Activity
-> ⚠️ Live stats temporarily disabled due to GitHub image blocking  
-> ✔️ Will be enabled automatically once GitHub cache refreshes
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalKatkar&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PrajwalKatkar&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKatkar&layout=compact&theme=radical&hide_border=true" />
+</p>
