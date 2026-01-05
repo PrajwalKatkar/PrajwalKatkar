@@ -63,13 +63,9 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
   <img src="https://nirzak-streak-stats.vercel.app/?user=PrajwalKatkar&theme=radical&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrajwalKatkar&theme=darkhub&column=7" />
-</p>
-
-
-
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/PrajwalKatkar)
+>
 
 
 ## 📈 Contribution Activity
