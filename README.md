@@ -65,8 +65,8 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PrajwalKatkar&theme=darkhub)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PrajwalKatkar&theme=radical&no-frame=true&row=1)
 
 ## 📈 Contribution Activity
 
