@@ -65,6 +65,9 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 
 ## 🏆 Achievements & Stats
 ![Metrics](https://metrics.lecoq.io/PrajwalKatkar)
+![GitHub Streak](https://streak-stats.demolab.com?user=PrajwalKatkar&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalKatkar&show_icons=true&theme=dark)
+
 
 
 
