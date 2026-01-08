@@ -57,11 +57,11 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rohitselote&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohitselote&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitselote&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PrajwalKatkar&theme=radical&hide_border=true" />
-</p>
 
 
 ## 📈 Contribution Activity
