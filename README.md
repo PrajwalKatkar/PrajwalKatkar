@@ -68,5 +68,4 @@ src="https://static.vecteezy.com/system/resources/previews/018/813/672/original/
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalKatkar&theme=react-dark)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/escprajwal?theme=dark)
 
